@@ -59,6 +59,8 @@
 ### Formula : P(A|B) = (P(B|A) * P(A)) / P(B)
 ### EX: used to detect if a word is a spam or not (P(Spam | Word))
 
+
+
 # 4. What is the Central limit Theory
 ## CLT: it is a probability theory which states that the distribution of a sample will approximate a normal distribution (i.e., a bell curve) as the sample size becomes larger, regardless of the population's actual distribution shape.
 ### the inputs:
